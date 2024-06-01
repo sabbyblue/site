@@ -16,7 +16,7 @@ homepage: false
 sabby@blue:~$ mommy cat about.toml
 title: "Sabbyblue"
 baseurl: "https://sabbyblue.blahaj.land/"
-pronouns: "she, her, hers, herself"
+pronouns: "she, her"
 date: 2004-09-16 # YY/MM/DD
 
 ```
