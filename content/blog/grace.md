@@ -1,5 +1,5 @@
 ---
-title: "Designing Gnome's mascot: a concept"
+title: "Designing GNOME's mascot"
 description: ""
 summary: ""
 date: 2024-05-31T18:59:19-03:00
@@ -17,7 +17,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-![A cartoon bunny with robotic arms.](grace.png)
+![A cartoon bunny with robotic arms.](grace1.png)
 
 This is Grace the bunny! She loves to have fun, whether out and about playing sports or learning at school (and home!)
 She's my mascot for the GNOME project.
