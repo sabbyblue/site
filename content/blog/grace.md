@@ -2,20 +2,9 @@
 title: "Designing GNOME's mascot"
 description: ""
 summary: ""
-date: 2024-05-31T18:59:19-03:00
-lastmod: 2024-05-31T18:59:19-03:00
-draft: false
-weight: 50
-categories: []
-tags: []
-contributors: []
-pinned: false
-homepage: false
-seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+date: 2024-05-31T17:35:47-03:00
+lastmod: 2024-05-31T17:35:47-03:00
+draft: true
 ---
 ![A cartoon bunny with robotic arms.](grace1.png)
 
