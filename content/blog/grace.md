@@ -1,10 +1,10 @@
 ---
-title: "Designing GNOME's mascot (concept)"
+title: "Designing Gnome's mascot: a concept"
 description: ""
 summary: ""
-date: 2024-05-31T20:00:14-03:00
-lastmod: 2024-05-31T20:00:14-03:00
-draft: true
+date: 2024-05-31T18:59:19-03:00
+lastmod: 2024-05-31T18:59:19-03:00
+draft: false
 weight: 50
 categories: []
 tags: []
@@ -28,11 +28,6 @@ Her design choices go as follows:
 - Grace is disabled! She wears prosthetic arms. Accessibility is at the core of GNOME's philosophy; that it may benefit every person.
 - Grace is a girl. Women and girls are underrepresented in software development, and it's essential to allow us a voice and encourage more girls to be interested in the area.
 - She's a rabbit! GNOME's long time icon is a small foot. And rabbits' feet are said to give good luck. I like that symbolism. The project is changing rapidly, and luck doesn't hurt.
-
-![](grace2.png)
-
-
-***(My initial sketch)***
 
 Her name and appearance are not final. I've been thinking of some cool changes like longer hair, or even making her a jackalope to complement KDE's antlered dragon, Konqi.
 
