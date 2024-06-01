@@ -2,9 +2,20 @@
 title: "Designing GNOME's mascot"
 description: ""
 summary: ""
-date: 2024-05-31T17:35:47-03:00
-lastmod: 2024-05-31T17:35:47-03:00
-draft: true
+date: 2024-06-01T17:29:28-03:00
+lastmod: 2024-06-01T17:29:28-03:00
+draft: false
+weight: 50
+categories: []
+tags: []
+contributors: []
+pinned: false
+homepage: false
+seo:
+  title: "" # custom title (optional)
+  description: "" # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 ![A cartoon bunny with robotic arms.](grace1.png)
 
@@ -19,5 +30,3 @@ Her design choices go as follows:
 - She's a rabbit! GNOME's long time icon is a small foot. And rabbits' feet are said to give good luck. I like that symbolism. The project is changing rapidly, and luck doesn't hurt.
 
 Her name and appearance are not final. I've been thinking of some cool changes like longer hair, or even making her a jackalope to complement KDE's antlered dragon, Konqi.
-
-
