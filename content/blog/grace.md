@@ -1,9 +1,9 @@
 ---
-title: "Designing GNOME's mascot"
+title: "Grace: GNOME mascot concept"
 description: ""
 summary: ""
-date: 2024-06-01T17:29:28-03:00
-lastmod: 2024-06-01T17:29:28-03:00
+date: 2024-06-04T09:29:31-03:00
+lastmod: 2024-06-04T09:29:31-03:00
 draft: false
 weight: 50
 categories: []
