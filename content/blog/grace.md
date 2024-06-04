@@ -17,7 +17,8 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-![A cartoon bunny with robotic arms.](grace1.png)
+
+![A cartoon bunny with robotic arms](grace1.png)
 
 This is Grace the bunny! She loves to have fun, whether out and about playing sports or learning at school (and home!)
 She's my mascot for the GNOME project.
